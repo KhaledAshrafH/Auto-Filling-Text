@@ -1,0 +1,16 @@
+number of words that read from file: 10000618
+number of articles: 14441
+number of tokens: 11468564
+
+
+# Arabic dataset (Extra)
+number of arabic words that read from file: 1919107
+number of articles: 6499
+number of tokens: 2008268
+
+
+names:-
+Khaled Ashraf Hanafy Mahmoud     => 20190186
+Samah Moustafa Hussein Mahmoud   => 20190248
+Aya-tullah Essam-eldien Mohamed  => 20190123
+
