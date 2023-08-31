@@ -142,7 +142,7 @@ This Project was created by a team of three computer science students at Faculty
   
 ## License
 
-The Project is released under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the toolbox in accordance with the terms of this license.
+The Project is released under the [MIT License](LICENSE.md).
 
 
 
