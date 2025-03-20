@@ -2,6 +2,8 @@
 
 This project is an auto-filling text program implemented in Python using N-gram models. The program suggests the next word based on the input given by the user. It utilizes N-gram models, specifically Trigrams and Bigrams, to generate predictions.
 
+.
+
 ## Dataset Information
 
 The project includes both English and Arabic versions in a single GUI program. The datasets used for training the N-gram models are as follows:
